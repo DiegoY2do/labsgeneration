@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+
+  h1{
+    color: green;
+  }
+
+  #red{
+    color: red;
+  }
+
+  .blue{
+    color: blue;
+  }
+
+  #brown{
+    cursor: pointer;
+  }
+
+  img{
+    width: 400px;
+    height: auto;
+  }

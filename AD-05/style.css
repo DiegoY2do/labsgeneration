@@ -1,0 +1,29 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+  body{
+    background: gray;
+  }
+  
+
+  img{
+    width: 200px;
+    height: auto;
+  }
+
+  h3{
+    color: green;
+  }
+
+  .blue{
+    color: blue;
+  }
+
+  .red{
+    color: red;
+  }
+  h5{
+    cursor: pointer;
+  }

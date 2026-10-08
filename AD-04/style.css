@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+h3{
+  cursor: pointer;
+}
+
+img{
+  width: 300px;
+  height: auto;
+}
+
+span{
+  cursor: pointer;
+}
